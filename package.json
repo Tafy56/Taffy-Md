@@ -41,7 +41,7 @@
     "node-cache": "^5.1.2",
     "node-webpmux": "^3.1.7",
     "pino": "^7.0.5",
-    "pm2": "^5.2.0",
+    "pm2": "^6.0.9",
     "webtorrent": "^2.5.10",
     "qrcode": "^1.5.3",
     "scrape-it": "^6.1.3",
